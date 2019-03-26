@@ -1,0 +1,5 @@
+OBJECT_BASE 1789521.btg
+OBJECT SCSF.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -70.706399 -32.739735 659.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -70.701941 -32.749706 671.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -70.703603 -32.744518 664.3 0.00
