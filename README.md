@@ -1,6 +1,6 @@
 # FlightGear custom scenery of Cuyo area
 
-This scenery covers some parts of the Cuyo area (La Rioja, San Juan, Mendoza and) and part of Chile (Santiago). It is generated using [OpenStreetMap](https://www.openstreetmap.org/) data.
+This scenery covers some parts of the Cuyo area (La Rioja, San Juan, Mendoza) and part of Chile (Santiago). It is generated using [OpenStreetMap](https://www.openstreetmap.org/) data.
 
 The process exctracts landcover information from the OSM datasets (landuse, natural, water tags, etc) and uses [Osm2City](https://osm2city.readthedocs.io/) for line data and objects (roads, tracks, rivers, buildings, pylons, etc.)
 
@@ -20,6 +20,8 @@ The process exctracts landcover information from the OSM datasets (landuse, natu
 ## How to use
 
 Clone or download and unzip, then add the folder as a scenery folder in FlightGear.
+
+**IMPORTANT**: The `Details` folder must be renamed or linked to `Obejcts`. If you already have an `Objects` folder, copy the contents of `Details` into it.
 
 #### From command line
 
